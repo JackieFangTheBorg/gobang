@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-from builtins import range
+from builtins import range,input
 import sys, time
 
 
